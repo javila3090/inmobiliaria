@@ -1,42 +1,33 @@
-<div id="footerwrap">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3">
-                <b>Empresas</b>
+<div id="">
+    <div class="">
+        <div class="row text-center">
+            <div class="col-md-4">
+                <b>S&iacute;guenos en</b>
                 <p>
-                    <span>- Google </span> <br>
-                    <span>- Twitter </span> <br>
-                    <span>- Facebook </span> <br>
+                    <img src="assets/img/icon-tw.png" style="cursor: pointer;" onclick="javascript:window.open('https://twitter.com/','_blank')"/>
+                    <img src="assets/img/icon-fb.png" style="cursor: pointer;" onclick="javascript:window.open('https://facebook.com/','_blank')"/>
+                    <img src="assets/img/icon-lk.png" style="cursor: pointer;" onclick="javascript:window.open('https://ve.linkedin.com/in/','_blank')"/>                    
                 </p>
-            </div>
-            <div class="col-md-3">
-                <b>Servicios</b>
+            </div>           
+            <div class="col-md-4">
                 <p>
-                    <span>- Desarrollo Web </span> <br>
-                    <span>- Hosting </span> <br>
-                    <span>- Soporte TI </span> <br>
-                </p>
-            </div> 
-            <div class="col-md-3">
-                <b>Valora un servicio</b>
-                <p>
-                    <span>- Danos tu opini&oacute;n </span> <br>
-                    <span>- Contactanos por nuestras redes </span> <br>
-                    <span>- Visita nuestra web </span> <br>
+                    <span><b><a href="#">Ayuda (FAQs)</a></b></span><br>
+                    <span><b><a href="#">¿Qui&eacute;nes somos?</a></b></span><br>
+                    <span><b><a href="#">Pol&iacute;ticas de privacidad</a></b></span><br>
+                    <span><b><a href="#">Condiciones generales</a></b></span><br>
                 </p>
             </div> 
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <b>Contacto</b> 
                 <p>
-                    <span class="glyphicon glyphicon-home"> </span> Caracas, Venezuela<br/>
-                    <span class="glyphicon glyphicon-phone"> </span> +58 424 3700897 <br/>
-                    <span class="glyphicon glyphicon-envelope"> </span> <a href="#"> javila3090@gmail.com</a> <br/>
+                    <span class="glyphicon glyphicon-home"> </span> Madrid, España<br/>
+                    <span class="glyphicon glyphicon-phone"> </span> +34 91 1234567 <br/>
+                    <span class="glyphicon glyphicon-envelope"> </span> <a href="#"> inmobiliara@example.com</a> <br/>
                 </p>
-            </div> 
+            </div>            
         </div>
-        <br>
         <div class="row">
-            <h4>Julio Avila © 2017</h4>
+            <h4>Copyright © 2017</h4>
         </div>
     </div>
 </div>

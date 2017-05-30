@@ -11,8 +11,8 @@ return array(
     $vendorDir . '/hamcrest/hamcrest-php/hamcrest/Hamcrest.php',
     $vendorDir . '/swiftmailer/swiftmailer/lib/swift_required.php',
     $vendorDir . '/paragonie/random_compat/lib/random.php',
-    $vendorDir . '/psy/psysh/src/Psy/functions.php',
     $vendorDir . '/laravel/framework/src/Illuminate/Foundation/helpers.php',
     $vendorDir . '/laravel/framework/src/Illuminate/Support/helpers.php',
+    $vendorDir . '/psy/psysh/src/Psy/functions.php',
     $vendorDir . '/laravelcollective/html/src/helpers.php',
 );
